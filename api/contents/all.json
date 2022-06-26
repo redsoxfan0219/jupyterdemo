@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-06-26T19:34:23.153626Z",
+      "created": "2022-06-26T22:28:45.871093Z",
       "format": null,
-      "last_modified": "2022-06-26T19:33:02.249388Z",
+      "last_modified": "2022-06-26T22:27:41.949811Z",
       "mimetype": null,
       "name": "Analysis of Interstate Traffic Data.ipynb",
       "path": "Analysis of Interstate Traffic Data.ipynb",
@@ -14,20 +14,20 @@
     },
     {
       "content": null,
-      "created": "2022-06-26T19:34:23.153626Z",
+      "created": "2022-06-26T22:28:45.875093Z",
       "format": null,
-      "last_modified": "2022-06-26T19:34:20.845621Z",
+      "last_modified": "2022-06-26T22:28:44.119058Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
-      "size": 941,
+      "size": 74,
       "type": "file",
       "writable": true
     }
   ],
-  "created": "2022-06-26T19:34:23.153626Z",
+  "created": "2022-06-26T22:28:45.875093Z",
   "format": "json",
-  "last_modified": "2022-06-26T19:34:23.153626Z",
+  "last_modified": "2022-06-26T22:28:45.875093Z",
   "mimetype": null,
   "name": "",
   "path": "",
